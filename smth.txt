@@ -1,0 +1,8 @@
+iqr -  interquartile range 
+
+1. write in asscending order
+2. Find mean 
+3. Find Median 
+4. FIND IQR 
+
+dataframe.quantile
